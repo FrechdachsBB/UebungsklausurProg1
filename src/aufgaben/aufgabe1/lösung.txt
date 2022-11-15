@@ -1,0 +1,6 @@
+abac:false
+abaca:false
+aca:true
+abc:true
+abcab:false
+bc:false

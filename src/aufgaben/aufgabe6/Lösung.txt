@@ -1,0 +1,10 @@
+
+Aufgabe | Ausgabe | Typ
+1       | true    | boolean
+2       | true    | boolean
+3       | 5.1     | double
+4       | false   | boolean
+5       | true    | boolean
+6       | true    | boolean
+7       | true    | boolean
+8       | 10      | int

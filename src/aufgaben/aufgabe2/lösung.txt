@@ -1,0 +1,18 @@
+Jeder Ausdruck...
+...beginnt mit aa
+...geht weiter mit beliebig vielen a
+...endet mit bcb
+
+a)
+aabcb
+aaabcb
+aaaabcb
+
+b)
+aaabb -> false
+aacb -> false
+aaabcb -> true
+aaaaaabcb -> true
+abc -> false
+aaaTb -> false (nicht vollständig aufgelöst)
+

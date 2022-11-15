@@ -1,0 +1,8 @@
+System.out.println (x): 3
+System.out.println (r.num): 2
+System.out.println (s.num): 2
+
+
+Hinweis: Genau genommen ist die Ausgabe von r.num & s.num unbekannt, da der Aufbau der Klasse
+Rational nicht bekannt ist (Die Klassen-Datei in dieser Lösung ist nur ein Beispiel).
+Da aber r und s auf die selbe Instanz von Rational zeigen (Rational s = r), wird zweimal die gleiche Ausgabe erzeugt.
