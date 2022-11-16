@@ -19,3 +19,12 @@
 - [16. Aufgabe](https://github.com/FrechdachsBB/UebungsklausurProg1/tree/main/src/aufgaben/aufgabe16)
 - [17. Aufgabe](https://github.com/FrechdachsBB/UebungsklausurProg1/tree/main/src/aufgaben/aufgabe17)
 - [18. Aufgabe](https://github.com/FrechdachsBB/UebungsklausurProg1/tree/main/src/aufgaben/aufgabe18)
+
+---
+
+**Info** *Dies sind keine Lösungen für eine echte Prüfung. Falls du also gerade
+zufällig über dieses Repository gestolpert bist: Keine Angst, du hast **keinen** Täuschungsversuch entdeckt.
+Wir haben von unserem Prof lediglich eine Probeklausur zur freiwilligen Bearbeitung erhalten, jedoch ohne Musterlösung.
+Deshalb wurde dieses Repo erstellt.* 
+
+*Da die Aufgabenstellungen nicht öffentlich sind, wurden sie auch hier nicht hochgeladen.*
