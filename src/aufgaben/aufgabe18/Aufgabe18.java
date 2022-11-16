@@ -43,6 +43,7 @@ public class Aufgabe18 {
         System.out.println(sb.toString());
     }
 
+    //Beispielhafte main-Methode, um Code zu testen (nicht Teil der Aufgabenstellung)
     public static void main(String[] args) {
         Aufgabe18 meinDepot = new Aufgabe18();
         meinDepot.aktieKaufen("Google");
