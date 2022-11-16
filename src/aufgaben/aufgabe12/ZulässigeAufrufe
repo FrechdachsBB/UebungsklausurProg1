@@ -1,0 +1,11 @@
+A a = new A();
+a.ausgabe(); -> unzulässig, da A.ausgabe() private ist
+
+B b = new B();
+b.ausgabe(); -> Zulässig, erzeugt: "Dies ist Klasse B."
+
+C c = new C();
+c.ausgabe(); Zulässig, erzeugt: "Dies ist Klasse B." (Weil C keine eigene ausgabe-Methode implementiert)
+
+D d = new D();
+d.ausgabe(); Zulässig, erzeugt: "Dies ist Klasse D."

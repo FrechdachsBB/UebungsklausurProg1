@@ -13,7 +13,7 @@ public class Kreis {
     }
 
     public double getSurfaceArea(){
-        return Math.PI * Math.pow(radius,2); // Radius = Pi*radius²
+        return Math.PI * Math.pow(radius,2); // Fläche = Pi*radius²
     }
 
     public static void main(String[] args) {
