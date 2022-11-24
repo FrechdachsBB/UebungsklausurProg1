@@ -20,9 +20,6 @@ public class Mobiltelefon {
 
     public int getAnkommendeNummern(int index) {
         if(index > ankommendeNummern.size()-1 || index < 0)throw new IndexOutOfBoundsException();
-
-        //Da Index 0 immer dem neusten Anruf entsprechen soll, wird hier "von hinten" auf die Liste zugegriffen.
-        //0 gibt also das letzte (=neuste) Element der Liste zurück, 4 gibt das älteste zurück
         return ankommendeNummern.get(index);
     }
 
