@@ -1,8 +1,8 @@
 package aufgaben.aufgabe10;
 
 public class Animal {
-    protected double weight;
-    protected int age;
+    private double weight;
+    private int age;
 
     public Animal(double weight, int age){
         this.weight=weight;
